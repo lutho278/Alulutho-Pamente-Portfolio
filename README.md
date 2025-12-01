@@ -5,6 +5,7 @@ This portfolio showcases the **projects, skills, and creativity** I bring into e
 
 ---
 
+## Access my Portfolio here: https://alulutho-pamente-portfolio-3acae7f5.base44.app/
 ## ✨ **What You’ll Find Inside**
 
 ### 🎨 **Interactive UI Designs**
@@ -27,9 +28,9 @@ Each project includes:
 
 | Project | Description | Demo | Code |
 |--------|-------------|------|------|
-| **EcoWaste** ♻️ | A waste management platform with a clean interface & pickup request system. | 🌍 _Visit Live_ | 📂 _View Repo_ |
-| **GoSellin Gourmet** 🍽️ | A PHP+MySQL multi-store platform with login & register functionality. | 🌍 _Visit Live_ | 📂 _View Repo_ |
-|
+| **EcoWaste** ♻️ | A waste management platform with a clean interface & pickup request system. |
+| **GoSellin Gourmet** 🍽️ | A PHP+MySQL multi-store platform with login & register functionality. |
+
 
 > _More projects are added frequently — keep an eye out!_
 
