@@ -26,8 +26,8 @@ Each project includes:
 
 ## 🚀 **Featured Projects**
 
-| Project | Description | Demo | Code |
-|--------|-------------|------|------|
+| Project | Description|
+|--------|-------------|
 | **EcoWaste** ♻️ | A waste management platform with a clean interface & pickup request system. |
 | **GoSellin Gourmet** 🍽️ | A PHP+MySQL multi-store platform with login & register functionality. |
 
